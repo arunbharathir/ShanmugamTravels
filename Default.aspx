@@ -17,10 +17,10 @@
                 <table width="780" align="center" cellpadding="0" cellspacing="0">
                     <tr>
                         <td valign="top" align="left" width="13%">
-                            <%--<img src="images/index_01.jpg" alt="" height="90px"/>--%>
+                            <%--<img src="index_01.jpg" alt="" height="90px"/>--%>
                         </td>
                         <td align="center">
-                            <img src="images/Shanmugam.png" />
+                            <img src="Shanmugam.png" />
                         </td>
                     </tr>
                 </table>
@@ -32,14 +32,14 @@
                     <div id="content">
                         <div id="sliderFrame">
                             <div id="slider">
-                                <img src="images/DSC_0700.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0698.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0696.jpg" width="20%" alt="" />
-                                <img src="images/DSC_Back.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0701.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0702.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0703.jpg" width="20%" alt="" />
-                                <img src="images/DSC_0704.jpg" width="20%" alt="" />
+                                <img src="DSC_0700.jpg" width="20%" alt="" />
+                                <img src="DSC_0698.jpg" width="20%" alt="" />
+                                <img src="DSC_0696.jpg" width="20%" alt="" />
+                                <img src="DSC_Back.jpg" width="20%" alt="" />
+                                <img src="DSC_0701.jpg" width="20%" alt="" />
+                                <img src="DSC_0702.jpg" width="20%" alt="" />
+                                <img src="DSC_0703.jpg" width="20%" alt="" />
+                                <img src="DSC_0704.jpg" width="20%" alt="" />
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                 <%--<table width="100%" align="center" cellpadding="0" cellspacing="0">
                     <tr>
                         <td valign="top">
-                            <img src="images/DSC_0700.jpg" width="550" height="250" alt="" />
+                            <img src="DSC_0700.jpg" width="550" height="250" alt="" />
                         </td>
                     </tr>
                 </table>--%>
@@ -72,7 +72,7 @@
                                                         <tr>
                                                             <td valign="top">
                                                                 <div style="padding-top: 29px; padding-left: 30px;">
-                                                                    <img src="images/index_10.jpg" width="388" height="27" alt="" /></div>
+                                                                    <img src="index_10.jpg" width="388" height="27" alt="" /></div>
                                                                 <div class="body1">
                                                                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam quis turpis eu
                                                                     libero varius vestibulum. In feugiat. Sed et turpis ac risus aliquet rhoncus.Cum
@@ -82,7 +82,7 @@
                                                         <tr>
                                                             <td align="right" valign="top" class="more" style="padding-right: 22px; padding-top: 10px;">
                                                                 <a href="content.html">more about us</a>
-                                                                <img src="images/index_14.jpg" width="8" height="5" alt="" />
+                                                                <img src="index_14.jpg" width="8" height="5" alt="" />
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -93,7 +93,7 @@
                                                     <table width="100%" cellspacing="0" cellpadding="0">
                                                         <tr>
                                                             <td valign="top" style="padding-left: 30px; padding-top: 10px;">
-                                                                <img src="images/index_16.jpg" width="280" height="23" alt="" />
+                                                                <img src="index_16.jpg" width="280" height="23" alt="" />
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -104,16 +104,16 @@
                                                                             <table width="100%" cellspacing="5" cellpadding="0">
                                                                                 <tr>
                                                                                     <td width="27%">
-                                                                                        <img src="images/index_23.jpg" alt="" width="98" height="75" class="border" />
+                                                                                        <img src="index_23.jpg" alt="" width="98" height="75" class="border" />
                                                                                     </td>
                                                                                     <td width="26%">
-                                                                                        <img src="images/index_26.jpg" alt="" width="98" height="75" class="border" />
+                                                                                        <img src="index_26.jpg" alt="" width="98" height="75" class="border" />
                                                                                     </td>
                                                                                     <td width="4%">
-                                                                                        <img src="images/index_28.jpg" alt="" width="98" height="75" class="border" />
+                                                                                        <img src="index_28.jpg" alt="" width="98" height="75" class="border" />
                                                                                     </td>
                                                                                     <td width="43%">
-                                                                                        <img src="images/index_30.jpg" alt="" width="98" height="75" class="border" />
+                                                                                        <img src="index_30.jpg" alt="" width="98" height="75" class="border" />
                                                                                     </td>
                                                                                 </tr>
                                                                             </table>
@@ -125,7 +125,7 @@
                                                         <tr>
                                                             <td valign="top" class="more" style="padding-left: 35px; padding-top: 10px; padding-bottom: 8px;">
                                                                 <a href="content.html">view all hotel gallery</a>
-                                                                <img src="images/index_38.jpg" width="18" height="7" alt="" />
+                                                                <img src="index_38.jpg" width="18" height="7" alt="" />
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -143,7 +143,7 @@
                                                         <tr>
                                                             <td colspan="2" align="left" valign="top" style="padding-top: 12px; padding-left: 10px;
                                                                 padding-bottom: 10px;">
-                                                                <img src="images/index_42.jpg" width="295" height="32" alt="" />
+                                                                <img src="index_42.jpg" width="295" height="32" alt="" />
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -177,7 +177,7 @@
                                                         <tr>
                                                             <td align="right" valign="middle" class="more1" style="padding-right: 15px;">
                                                                 <a href="content.html">READ MORE</a>
-                                                                <img src="images/index_49.jpg" alt="" width="11" height="5" />
+                                                                <img src="index_49.jpg" alt="" width="11" height="5" />
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -215,7 +215,7 @@
                                         <table width="260" cellpadding="0" cellspacing="0" bgcolor="#FB5D1B">
                                             <tr>
                                                 <td align="left" valign="top" style="padding-top: 19px; padding-left: 19px;">
-                                                    <img src="images/index_20.jpg" width="191" height="26" alt="" />
+                                                    <img src="index_20.jpg" width="191" height="26" alt="" />
                                                 </td>
                                             </tr>
                                             <tr>
@@ -234,7 +234,7 @@
                                             </tr>
                                             <tr>
                                                 <td align="center" valign="top" style="padding-top: 12px; padding-bottom: 12px;">
-                                                    <img src="images/index_45.jpg" width="196" height="88" alt="" />
+                                                    <img src="index_45.jpg" width="196" height="88" alt="" />
                                                 </td>
                                             </tr>
                                             <tr>
