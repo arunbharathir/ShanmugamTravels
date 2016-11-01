@@ -181,10 +181,7 @@
                         </div>
                         <div data-p="144.50" style="display: none;">
                             <img data-u="image" src="DSC_0703.jpg" />
-                        </div>
-                        <div data-p="144.50" style="display: none;">
-                            <img data-u="image" src="DSC_0704.jpg" />
-                        </div>
+                        </div>                        
                         <a data-u="any" href="http://www.jssor.com" style="display: none">Image Gallery</a>
                     </div>
                     <span data-u="arrowleft" class="jssora05l" style="top: 158px; left: 8px; width: 30px;
