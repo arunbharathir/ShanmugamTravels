@@ -6,9 +6,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <title>Shanmugam Travels</title>
-    <link href="Styles/css.css" rel="stylesheet" type="text/css" />
-    <link href="themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
-    <script src="themes/1/js-image-slider.js" type="text/javascript"></script>
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="js-image-slider.js" type="text/javascript"></script>
 </head>
 <body>
     <table width="780" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
